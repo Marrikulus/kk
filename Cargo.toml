@@ -1,0 +1,7 @@
+[package]
+name = "kk"
+version = "0.1.0"
+authors = ["Ingimar Svanberg Jóhannesson <ingimar.johannesson@gmail.com>"]
+edition = "2018"
+
+[dependencies]
